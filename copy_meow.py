@@ -48,6 +48,7 @@ if __name__ == "__main__":
     copy_data_file()
 
 '''
+PREVIOUS ITERATIONS 
 import os
 import shutil
 
